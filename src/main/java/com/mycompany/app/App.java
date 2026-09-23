@@ -12,6 +12,7 @@ public class App {
     public static void main(String[] args) {
         System.out.println(MESSAGE);
     }
+    compilation error!
 
     public String getMessage() {
         return MESSAGE;
